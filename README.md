@@ -56,6 +56,15 @@ Project/
 
 ---
 
+## 🫶 Special Thanks & Credits 🫶
+A huge shoutout to **ivysone**
+for the inspiration behind this lovely project! 🎉💖
+   ```Repository
+   https://github.com/ivysone/Will-you-be-my-Valentine-
+   ```
+
+---
+
 ## 🎀 Spread the Love! 🎀
 
 If you like this project and want to make someone's day, feel free to use it, improve it, or share it! May this Valentine's Day be filled with love, laughter, and unforgettable moments. 💕

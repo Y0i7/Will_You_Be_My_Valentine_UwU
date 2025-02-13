@@ -40,7 +40,7 @@ Project/
 
 1. **Download or clone the repository:**
    ```bash
-   git clone https://github.com/TU-USUARIO/Will-you-be-my-Valentine-.git
+   [git clone https://github.com/TU-USUARIO/Will-you-be-my-Valentine-.git](https://github.com/Y0i7/Will_You_Be_My_Valentine_UwU.git)
    ```
 2. **Open the index.html file in your browser.**
 3. **Ask the big question to that special someone.** 💞

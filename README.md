@@ -40,7 +40,7 @@ Project/
 
 1. **Download or clone the repository:**
    ```bash
-   git clone https://github.com/TU-USUARIO/Will-you-be-my-Valentine-.git
+   https://github.com/Y0i7/Will_You_Be_My_Valentine_UwU.git
    ```
 2. **Open the index.html file in your browser.**
 3. **Ask the big question to that special someone.** 💞
@@ -53,6 +53,15 @@ Project/
 💻 **HTML5** –  To structure the love 💌  
 🎨 **CSS3** – To make everything look beautiful ✨  
 ⚡ **JavaScript** – To create an interactive experience 💫 
+
+---
+
+## 🫶 Special Thanks & Credits 🫶
+A huge shoutout to **ivysone**
+for the inspiration behind this lovely project! 🎉💖
+   ```Repository
+   https://github.com/ivysone/Will-you-be-my-Valentine-
+   ```
 
 ---
 

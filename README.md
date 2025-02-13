@@ -1,64 +1,65 @@
 # 💖 Will You Be My Valentine? 💖
 
-## 💌 Una sorpresa especial para San Valentín 💌
+## 💌 A Special Valentine's Surprise 💌
 
-🌹 ¡Hola, mundo! Este proyecto es un pequeño detalle para hacer que el Día de San Valentín sea aún más especial. Si alguna vez quisiste hacerle una pregunta súper tierna a alguien de una manera interactiva y divertida, ¡este es el proyecto perfecto para ti! 💕
-
----
-
-## ✨ Características ✨
-
-❤️ Una página con una pregunta romántica: *"Will You Be My Valentine?"*  
-💚 Botones interactivos con un toque de humor y dulzura  
-💙 Un GIF adorable para derretir corazones  
-💛 Un mensaje especial para quienes dicen "Yes!"  
-💜 Un poco de travesura para quienes intentan decir "No" 😉  
+🌹 Hello, world! This project is a little gift to make Valentine's Day even more special. If you've ever wanted to ask someone a super sweet question in an interactive and fun way, this is the perfect project for you!💕
 
 ---
 
-## 📂 Estructura del Proyecto 📂
+## ✨ Features ✨
+
+❤️ A romantic question:*"Will You Be My Valentine?"*  
+💚 Interactive buttons with a touch of humor and sweetness  
+💙 An adorable GIF to melt hearts  
+💛 A special message for those who say "Yes!"  
+💜 A little mischief for those who try to say "No" 😉  
+
+---
+
+## 📂 Project Structure 📂
 ```
 Project/
-│── index.html            # Página principal con la pregunta 💘
+│── index.html            # Main page with the big question 💘
 │── pages/
-│    ├── yes_page.html    # Respuesta cuando aceptan ser tu Valentine! 😍
+│    ├── yes_page.html    # Response when they accept to be your Valentine! 😍
 │── assets/
 │    ├── Css/
-│    │   ├── styles.css  # Estilos generales 🎨
-│    │   ├── yes_style.css # Estilos de la página "Yes" 💓
-│    ├── Js/
-│    │   ├── script.js  # Lógica interactiva 🎭
-│    ├── Json/
-│        ├── version.json # Archivo de versión 📜
-│── README.md            # Este hermoso archivo 📖
+│        ├── styles.css  # General styles 🎨
+│        ├── yes_style.css # Styles for the "Yes" page 💓
+│        ├── images/     # Folder for images 🖼️
+├── Js/
+│   ├── script.js  # Interactive logic 🎭
+├── Json/
+│   ├── version.json # Version file 📜
+│── README.md            # This beautiful file 📖
 ```
 
 ---
 
-## 🎮 ¿Cómo jugar con el amor? 🎮
+## 🎮 How to Play with Love? 🎮
 
-1. **Descarga o clona el repositorio:**
+1. **Download or clone the repository:**
    ```bash
    git clone https://github.com/TU-USUARIO/Will-you-be-my-Valentine-.git
    ```
-2. **Abre el archivo `index.html` en tu navegador.**
-3. **Haz la gran pregunta a esa persona especial.** 💞
-4. **Observa su reacción y disfruta del momento.** 😍
+2. **Open the index.html file in your browser.**
+3. **Ask the big question to that special someone.** 💞
+4. **Watch their reaction and enjoy the moment.** 😍
 
 ---
 
-## 🛠️ Tecnologías Utilizadas 🛠️
+## 🛠️ Technologies Used 🛠️
 
-💻 **HTML5** – Para estructurar el amor 💌  
-🎨 **CSS3** – Para que todo luzca hermoso ✨  
-⚡ **JavaScript** – Para hacer la experiencia interactiva 💫  
+💻 **HTML5** –  To structure the love 💌  
+🎨 **CSS3** – To make everything look beautiful ✨  
+⚡ **JavaScript** – To create an interactive experience 💫 
 
 ---
 
-## 🎀 ¡Comparte amor! 🎀
+## 🎀 Spread the Love! 🎀
 
-Si te gusta este proyecto y quieres hacerle el día a alguien, ¡no dudes en usarlo, mejorarlo o compartirlo! Que este San Valentín esté lleno de amor, risas y momentos inolvidables. 💕
+If you like this project and want to make someone's day, feel free to use it, improve it, or share it! May this Valentine's Day be filled with love, laughter, and unforgettable moments. 💕
 
-🌎 **Feliz San Valentín para todos!** 🌎  
+🌎 **Happy Valentine's Day to everyone!** 🌎  
 💖💘💝💖💘💝💖💘💝💖💘💝💖💘💝💖💘💝
 

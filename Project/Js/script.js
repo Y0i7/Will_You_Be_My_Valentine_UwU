@@ -53,5 +53,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "../pages/yes_page.html";
+    window.location.href = "./pages/yes_page.html";
 }

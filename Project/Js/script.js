@@ -53,5 +53,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "../pages/yes_page.html";
+    window.location.href = "/Will_You_Be_My_Valentine_UwU/Project/pages/yes_page.html";
 }
